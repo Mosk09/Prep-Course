@@ -1,0 +1,27 @@
+
+
+.divClass{
+    color:red;
+   }
+h3{
+   color: blue;
+}
+#spanId{
+   font-size: 18px;
+   margin: 50;
+}
+
+html{
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#thirdDiv{
+    background-color: pink;
+    padding: 50px;
+    border-color: green;
+    border-style: groove; 
+    height: 600px;
+    width: 500px;
+}

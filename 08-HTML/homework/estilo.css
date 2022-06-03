@@ -1,0 +1,49 @@
+* {
+	font-family: 'monospace'; color: rgb(0, 0, 0);
+
+}
+
+.contact-form{
+        margin-left: 30%;
+        font-size: 20px;
+}
+img.alinear-derecha{
+    float: left;
+    height: 350px;
+}
+
+ul{
+    font-size: 25px;
+    margin-top: 23%;
+    padding: 20px 0px 0px 40px;
+}
+h2{
+    padding: 20px;
+}
+p{
+    margin: 20px;
+    height: 150px;
+    width: 400px;
+    font-size: 20px;
+}
+.comentario{
+    margin-left: 20px;
+    margin-top: 200px;
+    height: 60px;
+    width: 400px;
+    font-size: 20px;
+
+}
+    
+
+footer{
+   margin-top: 280px;
+   margin-left: 20px;
+}
+
+body{
+    background-image: url("fondo.jpg");
+  background-repeat:no-repeat;
+
+}
+  
